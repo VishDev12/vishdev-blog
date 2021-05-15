@@ -1,1 +1,1 @@
-Sitemap: https://vishdev12.github.io/vishdev-blog/sitemap.xml
+Sitemap: https://krvdev.com/vishdev-blog/sitemap.xml
